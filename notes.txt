@@ -1,0 +1,20 @@
+Single Page App w/React?
+
+-------
+Display:
+=======
+I'm a fan of the 1/2 - 2/3 height, 100% width image for the homepage (jumbotron in bootstrap, I think), minimal text
+
+Colors? I think Spotify Green should be featured
+
+Name, 
+snippet of about Know.More, maybe carousel more info to avoid crowding the homepage
+and buttons to move to the next view
+
+
+---------
+User path:
+=========
+(present less than 5 options) 
+-Login/Register
+-Explore
