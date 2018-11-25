@@ -11,7 +11,7 @@ Name,
 snippet of about Know.More, maybe carousel more info to avoid crowding the homepage
 and buttons to move to the next view
 
-I would like to try to use 'position: sticky' to create a neat scrolling display, e.g. there is a "header" graphic that scrolls with everything else until it reaches the top of the page and then it sticks to identify which section you are reading currently.
+I would like to try to use 'position: sticky' to create a neat scrolling display, e.g. there is a "header" graphic that scrolls with everything else until it reaches the top of the page and then it sticks to identify which section you are reading currently. Use x-index to ensure the graphc remains on top of scrolling text.
 
 
 ---------
