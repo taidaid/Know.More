@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+}
+
+.Background{
+  background-position: center; 
+  background-image: url(https://static01.nyt.com/images/2018/07/13/science/13MANHATTANHENGE/13MANHATTANHENGE-superJumbo.jpg?quality=90&auto=webp)
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  min-height: 80vh;
+  max-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin: 0 20vh 0 20vh;
+  background-color: rgba(16,17,20,0.8);
+}
+
+.App-header h1 {
+  font-family: cursive;
+}
+
+.Welcome {
+  background-color: rgb(228, 216, 200);
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: calc(8px + 2vmin);
+  opacity: 1;
+}
+
+.Welcome h2 {
+  margin: 5vh 10vw 5vh 10vw;
+  color: rgba(16,17,20,0.8)
+}
+
+.Welcome-buttons {
+  margin: 5vh 10vw 5vh 10vw;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+}
+
+.Welcome-buttons button {
+  background-color: rgba(16,17,20,0.8);
+  color: white;
+}
+
+.Welcome-info {
+  display: flex;
+}
+
+.App-footer {
+  align-items: flex-end;
+  font-size: calc(4px + 2vmin);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
